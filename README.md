@@ -1,8 +1,8 @@
-# Family Tree Stylist
+# Family Tree
 
 A static website that turns a short text description of a family into a styled, printable family-tree poster, with the whole tree encoded in the page URL.
 
-Planned home: https://familytree.jostache.com
+Planned home: https://family.jostache.com
 
 ## How it works
 
@@ -14,6 +14,6 @@ There is no backend or account, and the site never calls an LLM. The tree and it
 
 ## Status
 
-Design only; no source code yet. The design and build plan are in *Family Tree Stylist — Architecture v0.1*.
+Design only; no source code yet. The design and build plan are in *Family Tree — Architecture v0.1*.
 
 Planned stack: TypeScript and Vite with no UI framework, built to static files and deployed to GitHub Pages from `main`.
