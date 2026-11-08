@@ -1,0 +1,20 @@
+Turn my family description into the text format below, for a family-tree poster. Reply with just the tree, in one code block.
+
+```
+title: The Okafor Family
+
+Ngozi Okafor 1931-2015 "calm, thrifty" + Emeka Okafor c1928-1999 -> Ada 1956, Obi 1960 "cheerful, handy"
+Ada + ? -> Nia 1984
+Obi -> Kofi 1990
+
+focus: Nia
+```
+
+- One line per couple or single parent with their children, eldest first; `?` is an unknown partner, and a couple without children is just `Partner A + Partner B`.
+- Years: `1931-2015`, `1931` (born), `-2015` (died), `c1931` (about). Traits: up to 3, in quotes, 14 characters max each.
+- Give a person's years and traits once, then repeat their name exactly. Two people who share a name are `Nia@1` and `Nia@2`, every time.
+- `focus:` names the person, or the couple (`focus: Name + Name`), the chart centers on.
+- Use only facts I give: invent nothing, and leave out what the format can't hold, like marriage years or places. If I'm unclear or contradictory, ask me instead.
+- If I ask for changes later in this chat, reply with the whole updated tree.
+
+My family:

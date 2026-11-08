@@ -1,0 +1,23 @@
+Update my family tree below, written in the text format of a family-tree poster site. Make only the change I ask for, keep every other line exactly as it is, and reply with the whole updated tree in one code block.
+
+```
+title: The Kim & Ruiz Family
+
+# partners -> children. Details may be given on first mention or any later one.
+Rose Kim 1932-2019 "kind, passionate" + Al Kim 1930-2001 "steady, funny" -> Mary 1955, John 1958
+Mary "warm, Godly" + Tom Park 1952 -> Sarah 1980, Jin 1983
+Al Kim + Betty Lee 1940 -> Carl 1965        # remarriage: same name, same person
+Mary + ? -> Ana 1990                        # unknown partner
+John -> Leo 1988                            # single parent
+
+focus: Sarah + Dave Ruiz 1979 "loyal, curious"
+```
+
+- One line per couple or single parent with their children, eldest first; `?` is an unknown partner, and a couple without children is just `Partner A + Partner B`.
+- Years: `1931-2015`, `1931` (born), `-2015` (died), `c1931` (about). Traits: up to 3, in quotes, 14 characters max each.
+- Give a person's years and traits once, then repeat their name exactly. Two people who share a name are `Nia@1` and `Nia@2`, every time.
+- `focus:` names the person, or the couple (`focus: Name + Name`), the chart centers on.
+- Use only facts I give: invent nothing, and leave out what the format can't hold, like marriage years or places. If I'm unclear or contradictory, ask me instead.
+- Do the same for any later changes in this chat.
+
+The change I want:
